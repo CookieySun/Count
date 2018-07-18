@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Count</string>
+    <string name="_countNumber">0</string>
+    <string name="count_up">Count Up!!</string>
+    <string name="reset">Reset</string>
+</resources>
